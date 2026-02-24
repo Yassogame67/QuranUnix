@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ### 3. التشغيل
 ```bash
-python src/main.py
+python main.py
 ```
 
 ## ⌨️ اختصارات لوحة المفاتيح
