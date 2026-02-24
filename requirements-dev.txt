@@ -1,0 +1,16 @@
+# متطلبات التطوير
+-r requirements.txt
+
+# أدوات البناء
+pyinstaller>=5.0
+
+# اختبارات
+pytest>=7.0
+pytest-qt>=4.0
+
+# تنسيق الكود
+black>=22.0
+flake8>=5.0
+
+# توثيق
+sphinx>=5.0

@@ -1,0 +1,9 @@
+include README.md
+include LICENSE
+include LICENSE.AR
+include requirements.txt
+include requirements-dev.txt
+recursive-include assets *
+recursive-include src *.py
+global-exclude __pycache__
+global-exclude *.py[co]
